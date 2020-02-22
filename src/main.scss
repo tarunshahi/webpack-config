@@ -1,0 +1,8 @@
+$primary: magenta;
+$danger: purple;
+@import "~bootstrap/scss/bootstrap";
+
+.card-body{
+    background:black;
+    color:white;
+}
